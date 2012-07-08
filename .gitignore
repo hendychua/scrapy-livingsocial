@@ -1,0 +1,3 @@
+## ignore json files and pyc
+*.json
+*.pyc
